@@ -1,0 +1,72 @@
+\documentclass[12pt, a4paper]{article}
+
+\usepackage[utf8]{inputenc}   % für deutsche Umlaute (input)
+\usepackage[ngerman]{babel}   % für neue deutsche Rechtschreibung 
+\usepackage[T1]{fontenc}      % für deutsche Umlaute (output)
+
+\usepackage{amsmath}          % für mathematische Formeln
+\usepackage{amssymb}          % für mathematische Symbole
+
+\usepackage{graphicx}         % für Bilder
+
+\usepackage[numbers]{natbib}
+\bibliographystyle{plainnat}
+
+
+
+\setlength{\parindent}{0em}   % Einzug (Einrückung) der ersten Zeile im Abschnitt
+\setlength{\parskip}{0.75em}  % Abstand zwischen den einzelnen Abschnitten
+
+\title{\LaTeX-Intro}          % Titel der Arbeit, wird für \maketitle benötigt
+\author{Peter Kessler}        % Autor der Arbeit, wird für \maketitle benötigt
+\date{März 2019}              % Datum der Arbeit, wird für \maketitle benötigt
+
+
+\begin{document}
+
+\maketitle
+
+\pagebreak
+\tableofcontents
+
+
+\pagebreak 
+\section{Herkunft}
+\input{./Inhalte/Herkunft.tex}
+
+
+\pagebreak
+\section{WYSIWYG vs WYSIWYAF}
+
+\subsection{WYSIWYG}
+\input{./Inhalte/WYSIWYG.tex}
+
+\subsection{WYSIWYAF}
+\input{./Inhalte/WYSIWYAF.tex}
+
+
+\pagebreak
+\section{Arbeiten mit mathematischen Formeln}
+\input{./Inhalte/Math.tex}
+
+\subsection{Inline Formeln}
+\input{./Inhalte/MathInline.tex}
+
+\subsection{Abgesetzte Formeln}
+\input{./Inhalte/MathAbgesetzt.tex}
+
+\subsection{Ausgerichtete Formeln}
+\input{./Inhalte/MathAusgerichtet.tex}
+
+
+\pagebreak
+\section{Zitieren und Literaturverzeichnis}
+\input{./Inhalte/Zitieren.tex}
+
+
+\pagebreak
+\addcontentsline{toc}{section}{Literatur-/Quellenverzeichnis}
+\renewcommand{\refname}{Literatur-/Quellenverzeichnis} 
+\bibliography{./Verzeichnisse/Literatur}
+
+\end{document}
