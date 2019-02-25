@@ -1,24 +1,24 @@
 # LaTeX-Basics - Workshop
 
 ## Kurzbeschreibung:
-•	Aufbauend auf den Grundlagen aus Basics 4 wird in diesem Workshop ein etwas komplexeres Dokument erstellt, in dem die wichtigsten Punkte (gem. Inhalte unten) praktisch geübt werden. Das Dokument wird mit der eigens installierten LaTeX-Umgebung auf dem eigenen Laptop oder mit dem Online-Editor Overleaf erstellt/bearbeitet.
+Aufbauend auf den Grundlagen aus Basics 4 wird in diesem Workshop ein etwas komplexeres Dokument erstellt, in dem die wichtigsten Punkte (gem. Inhalte unten) praktisch geübt werden. Das Dokument wird mit der eigens installierten LaTeX-Umgebung auf dem eigenen Laptop oder mit dem Online-Editor Overleaf erstellt/bearbeitet.
  
 ## Inhalte:
-•	Trennung von Inhalt und Struktur
-•	Text erfassen in LaTeX
-•	Tabellen
-•	Bildern / Grafiken und Abbildungsverzeichnis
-•	Abkürzungen und Abkürzungsverzeichnis
-•	Fussnoten
-•	Stichworte und Stichwortverzeichnis
-•	Quellenangaben / Zitieren
-•	Mathematische Formeln
+-	Trennung von Inhalt und Struktur
+-	Text erfassen in LaTeX
+-	Tabellen
+-	Bildern / Grafiken und Abbildungsverzeichnis
+-	Abkürzungen und Abkürzungsverzeichnis
+-	Fussnoten
+-	Stichworte und Stichwortverzeichnis
+-	Quellenangaben / Zitieren
+-	Mathematische Formeln
  
 ## Voraussetzung / mitbringen:
-•	Besuch Basic 4 – LaTeX-Basics
-•	Eigener Laptop mit installierter LaTeX-Umgebung, oder
-•	Eigener Laptop und ETH-Account um mit Overleaf Arbeiten zu können
-•	LaTeX-Tutorial (in elektronischer Form pdf und LaTeX) aus Basic 4
+-	Besuch Basic 4 – LaTeX-Basics
+-	Eigener Laptop mit installierter LaTeX-Umgebung, oder
+-	Eigener Laptop und ETH-Account um mit Overleaf Arbeiten zu können
+-	LaTeX-Tutorial (in elektronischer Form pdf und LaTeX) aus Basic 4
  
 
 
