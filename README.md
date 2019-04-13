@@ -25,4 +25,4 @@ Aufbauend auf den Grundlagen aus Basics 4 wird in diesem Workshop ein etwas komp
 ## Dieses Repository enthält das Schlussdokument aus der LaTeX-Basics - Lunch-Session als Grundlage für diesen Workshop.
 
 - Das Verzeichnis 11-OrdnerStruktur-Overleaf enthält das letzte Beispiel aus der Latex-Basisc---Lunch-Session, in der mit Overleaf gearbeitet wurde.
-- Das Verzeichnis 11-OrdnerStruktur-Texmaker enthält das analoge Dokument, mit Anpassungen für das Stichwort-Verzeichnis in Texmaker.
+- Das Verzeichnis 11-OrdnerStruktur-Texmaker enthält das analoge Dokument, mit Anpassungen für das Stichwort-Verzeichnis (Formatierung) und für das Literaturverzeichnis (TeXmaker-Default ist BibTex, Overleaf-Default ist Bibier).
