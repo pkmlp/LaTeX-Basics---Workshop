@@ -25,4 +25,12 @@ Aufbauend auf den Grundlagen aus Basics 4 wird in diesem Workshop ein etwas komp
 ## Dieses Repository enthält das Schlussdokument aus der LaTeX-Basics - Lunch-Session als Grundlage für diesen Workshop.
 
 - Das Verzeichnis 11-OrdnerStruktur-Overleaf enthält das letzte Beispiel aus der Latex-Basisc---Lunch-Session, in der mit Overleaf gearbeitet wurde.
-- Das Verzeichnis 11-OrdnerStruktur-Texmaker enthält das analoge Dokument.
+- Das Verzeichnis 11-OrdnerStruktur-Texmaker enthält das analoge Dokument, mit leichten Anpassungen für das Literaturverzeichnis (Overleaf-Default Backend für Literatur ist biber, TeXmaker-Default Backend für Literatur ist bibtex). 
+
+**Bitte beachten:** Overleaf stellt selber fest, welche Compiler wie oft aufgerufen werden müssen. In einer IDE ist selber verantwortlich dafür. Für das hier vorliegende Dokument in TeXmaker muss folgende Sequenz ausgeführt werden:
+- PDFLaTeX (F6)
+- PDFLaTeX (F6)
+- BibTeX (F11)
+- PDFLaTeX (F6)
+- PDFLaTeX (F6)
+- PDF ansehen (F7)
