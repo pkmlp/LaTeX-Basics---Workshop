@@ -35,4 +35,4 @@ Aufbauend auf den Grundlagen aus Basics 4 wird in diesem Workshop ein etwas komp
 - PDFLaTeX (F6)
 - PDF ansehen (F7)
 
-In der Regel können solche Befehls-Sequenzen in einer IDE konfiguriert werden, so das dies auch mit einem einfachen Mausklick ausgeführt werden kann.
+In der Regel können solche Befehls-Sequenzen in einer IDE konfiguriert werden, so dass diese auch mit einem einfachen Mausklick ausgeführt werden können.
