@@ -17,7 +17,7 @@ Aufbauend auf den Grundlagen aus Basics 4 wird in diesem Workshop ein etwas komp
 ## Vorgehen:
 -	Einführung anhand Kurz-Repetition des Dokumentes aus der Lunch-Session (das Dokument aus der Lunch-Session wird als Basis für den Workshop genommen).
 - Installation resp. Kontrolle der installierten LaTeX-Umgebung mit dem Dokument aus der Lunch-Session (muss fehlerfrei erstellt werden können).
--	Selbständig mit Hilfe des Dokumentes **LaTeX-Rezepte** die persönlich relevanten/interessanten Themen (gem. Inhalte oben) einbauen. 
+-	Selbständig mit Hilfe des Dokumentes **LaTeX-Rezepte** (LaTeX_Cookbook.pdf) die persönlich relevanten/interessanten Themen (gem. Inhalte oben) einbauen. 
 
 ## Voraussetzung / mitbringen:
 -	Besuch Basic 4 – LaTeX-Basics
