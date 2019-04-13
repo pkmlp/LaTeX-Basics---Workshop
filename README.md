@@ -33,7 +33,10 @@ Aufbauend auf den Grundlagen aus Basics 4 wird in diesem Workshop ein etwas komp
 **Bitte beachten:** Overleaf stellt selber fest, welche Compiler wie oft aufgerufen werden müssen. In einer IDE ist man selber verantwortlich dafür. Für das hier vorliegende Dokument in TeXmaker muss folgende Sequenz ausgeführt werden:
 - PDFLaTeX (F6)
 - PDFLaTeX (F6)
-- BibTeX (F11)
+- BibTeX (F11 - für Literaturverzeichnis)
+- PDFLaTeX (F6)
+- PDFLaTeX (F6)
+- MakeIndex (F12 - für Stichwortverzeichnis)
 - PDFLaTeX (F6)
 - PDFLaTeX (F6)
 - PDF ansehen (F7)
