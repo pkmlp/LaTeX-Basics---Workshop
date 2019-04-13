@@ -6,13 +6,13 @@ Aufbauend auf den Grundlagen aus Basics 4 wird in diesem Workshop ein etwas komp
 ## Inhalte:
 -	Trennung von Inhalt und Struktur
 -	Text erfassen in LaTeX
--	Tabellen
--	Bildern / Grafiken und Abbildungsverzeichnis
--	Abkürzungen und Abkürzungsverzeichnis
--	Fussnoten
--	Stichworte und Stichwortverzeichnis
--	Quellenangaben / Zitieren
 -	Mathematische Formeln
+-	Fussnoten
+-	Bilder/Grafiken und Abbildungsverzeichnis
+-	Abkürzungen und Abkürzungsverzeichnis
+-	Stichworte und Stichwortverzeichnis
+-	Quellen zitieren und Literaturverzeichnis
+-	Tabellen und Tabellenverzeichnis
  
 ## Voraussetzung / mitbringen:
 -	Besuch Basic 4 – LaTeX-Basics
