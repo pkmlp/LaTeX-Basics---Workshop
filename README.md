@@ -14,14 +14,17 @@ Aufbauend auf den Grundlagen aus Basics 4 wird in diesem Workshop ein etwas komp
 -	Quellen zitieren und Literaturverzeichnis
 -	Tabellen und Tabellenverzeichnis
  
+## Vorgehen:
+-	Einführung anhand Kurz-Repetition des Dokumentes aus der Lunch-Session (das Dokument aus der Lunch-Session wird als Basis für den Workshop genommen).
+- Installation resp. Kontrolle der installierten LaTeX-Umgebung mit dem Dokument aus der Lunch-Session (muss fehlerfrei erstellt werden können).
+-	Selbständig mit Hilfe des Dokumentes **LaTeX-Rezepte** die persönlich relevanten/interessanten Themen (gem. Inhalte oben) einbauen. 
+
 ## Voraussetzung / mitbringen:
 -	Besuch Basic 4 – LaTeX-Basics
 -	Eigener Laptop mit installierter LaTeX-Umgebung, oder
 -	Eigener Laptop und ETH-Account um mit Overleaf Arbeiten zu können
 -	LaTeX-Tutorial (in elektronischer Form pdf und LaTeX) aus Basic 4
  
-
-
 ## Dieses Repository enthält das Schlussdokument aus der LaTeX-Basics - Lunch-Session als Grundlage für diesen Workshop.
 
 - Das Verzeichnis 11-OrdnerStruktur-Overleaf enthält das letzte Beispiel aus der Latex-Basisc---Lunch-Session, in der mit Overleaf gearbeitet wurde.
