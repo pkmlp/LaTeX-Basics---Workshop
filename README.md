@@ -20,10 +20,9 @@ Aufbauend auf den Grundlagen aus Basics 4 wird in diesem Workshop ein etwas komp
 -	Selbständig mit Hilfe des Dokumentes **LaTeX-Rezepte** (LaTeX_Cookbook.pdf) die persönlich relevanten/interessanten Themen (gem. Inhalte oben) einbauen (der LaTeX-Source der LaTeX-Rezepte ist in einem separaten Repo vorhanden). 
 
 ## Voraussetzung / mitbringen:
--	Besuch Basic 4 – LaTeX-Basics
+-	Erste Erfahrungen mit LaTeX
 -	Eigener Laptop mit installierter LaTeX-Umgebung, oder
 -	Eigener Laptop und ETH-Account um mit Overleaf Arbeiten zu können
--	LaTeX-Tutorial (in elektronischer Form pdf und LaTeX) aus Basic 4
  
 ## Dieses Repository enthält das Schlussdokument aus der LaTeX-Basics - Lunch-Session als Grundlage für diesen Workshop.
 
