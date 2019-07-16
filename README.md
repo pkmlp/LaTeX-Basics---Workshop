@@ -1,7 +1,7 @@
 # LaTeX-Basics - Workshop
 
 ## Kurzbeschreibung:
-Aufbauend auf den Grundlagen aus Basics 4 wird in diesem Workshop ein etwas komplexeres Dokument erstellt, in dem die wichtigsten Punkte (gem. Inhalte unten) praktisch geübt werden. Das Dokument wird mit der eigens installierten LaTeX-Umgebung auf dem eigenen Laptop oder mit dem Online-Editor Overleaf erstellt/bearbeitet.
+In diesem Workshop wird selbständig ein Dokument erstellt, in dem spezifische LaTeX-Themen (gem. Inhalte unten) praktisch geübt werden können. Das Dokument wird mit der eigens installierten LaTeX-Umgebung auf dem eigenen Laptop oder mit dem Online-Editor Overleaf erstellt/bearbeitet. Der Workshop ist so aufgebaut, dass mit Hilfe eines Handbuches selbständig individuelle Themen (gem. Inhalte unten) bearbeitet werden können. Somit haben Teilnehmende die Möglichkeit, sich ein auf ihre Bedürfnise zugeschnittenes LaTeX-Template zu erstellen. 
  
 ## Inhalte:
 -	Trennung von Inhalt und Struktur
@@ -15,8 +15,7 @@ Aufbauend auf den Grundlagen aus Basics 4 wird in diesem Workshop ein etwas komp
 -	Tabellen und Tabellenverzeichnis
  
 ## Vorgehen:
--	Einführung anhand Kurz-Repetition des Dokumentes aus der Lunch-Session (das Dokument aus der Lunch-Session wird als Basis für den Workshop genommen).
-- Installation resp. Kontrolle der installierten LaTeX-Umgebung mit dem Dokument aus der Lunch-Session (muss fehlerfrei erstellt werden können).
+- Installation resp. Kontrolle der installierten LaTeX-Umgebung mit dem Dokument aus der Lunch-Session (Dokument wird abgegeben und muss fehlerfrei in der eigenen Arbeitsumgebung erstellt werden können).
 -	Selbständig mit Hilfe des Dokumentes **LaTeX-Rezepte** (LaTeX_Cookbook.pdf) die persönlich relevanten/interessanten Themen (gem. Inhalte oben) einbauen (der LaTeX-Source der LaTeX-Rezepte ist in einem separaten Repo vorhanden). 
 
 ## Voraussetzung / mitbringen:
