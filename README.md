@@ -28,7 +28,7 @@ In diesem Workshop wird selbständig ein Dokument erstellt, in dem spezifische L
 - Das Verzeichnis 11-OrdnerStruktur-Overleaf enthält das letzte Beispiel aus der Latex-Basisc---Lunch-Session, in der mit Overleaf gearbeitet wurde.
 - Das Verzeichnis 11-OrdnerStruktur-Texmaker enthält das analoge Dokument, mit leichten Anpassungen für das Literaturverzeichnis (Overleaf-Default Backend für Literatur ist biber, TeXmaker-Default Backend für Literatur ist bibtex). 
 
-**Bitte beachten:** Overleaf stellt selber fest, welche Compiler wie oft aufgerufen werden müssen. In einer IDE ist man selber verantwortlich dafür. PDFLaTeX kann mit vielen Inhalten (Tabellen, Grafiken, Abbildungen, etc.) umgehen. Es gibt jedoch Themen (Literaturverzeichnis, Stichwortverzeichnis) für die spezielle Compiler aufgerufen werden müssen. Für ein Dokument mit allen im Inhalt aufgeführten Inhalten muss in TeXmaker folgende Sequenz ausgeführt werden:
+**Bitte beachten:** Overleaf stellt selber fest, welche Compiler wie oft aufgerufen werden müssen. In einer IDE ist man selber verantwortlich dafür. PDFLaTeX kann mit vielen Inhalten (Tabellen, Grafiken, Abbildungen, etc.) umgehen. Es gibt jedoch Themen (Literaturverzeichnis, Stichwortverzeichnis) für die spezielle Compiler aufgerufen werden müssen. Für ein Dokument mit allen im Inhalt aufgeführten Themen/Inhalten muss in TeXmaker folgende Sequenz ausgeführt werden:
 - PDFLaTeX (F6)
 - PDFLaTeX (F6)
 - BibTeX (F11 - für Literaturverzeichnis)
