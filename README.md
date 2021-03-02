@@ -1,7 +1,7 @@
 # LaTeX-Basics - Workshop
 
 ## Kurzbeschreibung:
-In diesem Workshop wird selbständig ein Dokument erstellt, in dem spezifische LaTeX-Themen (gem. Inhalte unten) praktisch geübt werden können. Das Dokument wird mit der eigens installierten LaTeX-Umgebung auf dem eigenen Laptop oder mit dem Online-Editor Overleaf erstellt/bearbeitet. Der Workshop ist so aufgebaut, dass mit Hilfe eines Handbuches selbständig individuelle Themen (gem. Inhalte unten) bearbeitet werden können. Somit haben Teilnehmende die Möglichkeit, sich ein auf ihre Bedürfnise zugeschnittenes LaTeX-Template zu erstellen.
+In diesem Workshop wird selbständig ein Dokument erstellt, in dem spezifische LaTeX-Themen (gem. Inhalte unten) praktisch geübt werden können. Das Dokument wird mit der eigens installierten LaTeX-Umgebung auf dem eigenen Laptop oder mit dem Online-Editor Overleaf erstellt/bearbeitet. Der Workshop ist so aufgebaut, dass mit Hilfe eines Handbuches selbständig individuelle Themen (gem. Inhalte unten) bearbeitet werden können. Somit haben Teilnehmende die Möglichkeit, sich ein auf ihre Bedürfnise zugeschnittenes LaTeX-Template zu erstellen. 
  
 ## Inhalte:
 -	Trennung von Inhalt und Struktur
