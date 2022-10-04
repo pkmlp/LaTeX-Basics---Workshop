@@ -18,7 +18,7 @@ In diesem Workshop wird selbständig ein Dokument erstellt, in dem spezifische L
 - Installation resp. Kontrolle der installierten LaTeX-Umgebung mit dem Dokument aus der Lunch-Session (Dokument wird abgegeben und muss fehlerfrei in der eigenen Arbeitsumgebung erstellt werden können).
 -	Selbständig mit Hilfe des Dokumentes **LaTeX-Rezepte** (LaTeX_Cookbook.pdf) die persönlich relevanten/interessanten Themen (gem. Inhalte oben) einbauen (der LaTeX-Source der LaTeX-Rezepte ist in einem separaten Repo vorhanden). 
 
-## Voraussetzung / mitbringen:
+## Voraussetzung / mitbringen: 
 -	Erste Erfahrungen mit LaTeX
 -	Eigener Laptop mit installierter LaTeX-Umgebung, oder
 -	Eigener Laptop und ETH-Account um mit Overleaf Arbeiten zu können
